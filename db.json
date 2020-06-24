@@ -1,0 +1,66 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark5",
+      "contactPreference": "email",
+      "phone": "5641238971",
+      "email": "mark@dell.com",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": "10",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Java",
+          "experienceInYears": "20",
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "angular",
+          "experienceInYears": "5",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "John",
+      "contactPreference": "phone",
+      "email": "john@email.com",
+      "phone": "3242138971",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": 2,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "HTML",
+          "experienceInYears": 2,
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "LINQ",
+          "experienceInYears": 3,
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "david",
+      "contactPreference": "email",
+      "email": "dave@dell.com",
+      "phone": "12345",
+      "skills": [
+        {
+          "skillName": "c",
+          "experienceInYears": "3",
+          "proficiency": "beginner"
+        }
+      ]
+    }
+  ]
+}
